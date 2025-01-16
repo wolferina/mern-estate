@@ -1,7 +1,6 @@
-import React from 'react'
 
 export default function App() {
   return (
-    <h1 className='text-red-500'>App</h1>
-  )
+    <h2 className="text-pink-600 grid">hello baby</h2>
+  );
 }
